@@ -1,0 +1,400 @@
+2015-05-27 13:17:14 [ main ] FrameworkServlet 'simple': initialization started
+2015-05-27 13:17:14 [ main ] Refreshing WebApplicationContext for namespace 'simple-servlet': startup date [Wed May 27 13:17:14 CST 2015]; root of context hierarchy
+2015-05-27 13:17:14 [ main ] Loading XML bean definitions from ServletContext resource [/WEB-INF/simple-servlet.xml]
+2015-05-27 13:17:14 [ main ] JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2015-05-27 13:17:14 [ main ] Mapped URL path [/themes/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#0'
+2015-05-27 13:17:14 [ main ] Mapped URL path [/scripts/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#1'
+2015-05-27 13:17:14 [ main ] Mapped URL path [/styles/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#2'
+2015-05-27 13:17:14 [ main ] Mapped URL path [/images/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#3'
+2015-05-27 13:17:14 [ main ] Mapped URL path [/**] onto handler 'org.springframework.web.servlet.resource.DefaultServletHttpRequestHandler#0'
+2015-05-27 13:17:14 [ main ] FrameworkServlet 'simple': initialization completed in 579 ms
+2015-05-27 13:28:21 [ main ] FrameworkServlet 'simple': initialization started
+2015-05-27 13:28:22 [ main ] Refreshing WebApplicationContext for namespace 'simple-servlet': startup date [Wed May 27 13:28:22 CST 2015]; root of context hierarchy
+2015-05-27 13:28:22 [ main ] Loading XML bean definitions from ServletContext resource [/WEB-INF/simple-servlet.xml]
+2015-05-27 13:28:22 [ main ] JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2015-05-27 13:28:22 [ main ] Mapped URL path [/themes/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#0'
+2015-05-27 13:28:22 [ main ] Mapped URL path [/scripts/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#1'
+2015-05-27 13:28:22 [ main ] Mapped URL path [/styles/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#2'
+2015-05-27 13:28:22 [ main ] Mapped URL path [/images/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#3'
+2015-05-27 13:28:22 [ main ] Mapped URL path [/**] onto handler 'org.springframework.web.servlet.resource.DefaultServletHttpRequestHandler#0'
+2015-05-27 13:28:22 [ main ] FrameworkServlet 'simple': initialization completed in 530 ms
+2015-05-27 13:29:47 [ main ] FrameworkServlet 'simple': initialization started
+2015-05-27 13:29:47 [ main ] Refreshing WebApplicationContext for namespace 'simple-servlet': startup date [Wed May 27 13:29:47 CST 2015]; root of context hierarchy
+2015-05-27 13:29:47 [ main ] Loading XML bean definitions from ServletContext resource [/WEB-INF/simple-servlet.xml]
+2015-05-27 13:29:47 [ main ] JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2015-05-27 13:29:48 [ main ] Mapped URL path [/themes/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#0'
+2015-05-27 13:29:48 [ main ] Mapped URL path [/scripts/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#1'
+2015-05-27 13:29:48 [ main ] Mapped URL path [/styles/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#2'
+2015-05-27 13:29:48 [ main ] Mapped URL path [/images/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#3'
+2015-05-27 13:29:48 [ main ] Mapped URL path [/**] onto handler 'org.springframework.web.servlet.resource.DefaultServletHttpRequestHandler#0'
+2015-05-27 13:29:48 [ main ] FrameworkServlet 'simple': initialization completed in 578 ms
+2015-05-27 13:30:15 [ Timer-1 ] Closing WebApplicationContext for namespace 'simple-servlet': startup date [Wed May 27 13:29:47 CST 2015]; root of context hierarchy
+2015-05-27 13:30:16 [ Timer-1 ] FrameworkServlet 'simple': initialization started
+2015-05-27 13:30:16 [ Timer-1 ] Refreshing WebApplicationContext for namespace 'simple-servlet': startup date [Wed May 27 13:30:16 CST 2015]; root of context hierarchy
+2015-05-27 13:30:16 [ Timer-1 ] Loading XML bean definitions from ServletContext resource [/WEB-INF/simple-servlet.xml]
+2015-05-27 13:30:16 [ Timer-1 ] JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2015-05-27 13:30:16 [ Timer-1 ] Mapped URL path [/themes/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#0'
+2015-05-27 13:30:16 [ Timer-1 ] Mapped URL path [/scripts/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#1'
+2015-05-27 13:30:16 [ Timer-1 ] Mapped URL path [/styles/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#2'
+2015-05-27 13:30:16 [ Timer-1 ] Mapped URL path [/images/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#3'
+2015-05-27 13:30:16 [ Timer-1 ] Mapped URL path [/**] onto handler 'org.springframework.web.servlet.resource.DefaultServletHttpRequestHandler#0'
+2015-05-27 13:30:16 [ Timer-1 ] FrameworkServlet 'simple': initialization completed in 454 ms
+2015-05-27 13:30:27 [ main ] FrameworkServlet 'simple': initialization started
+2015-05-27 13:30:27 [ main ] Refreshing WebApplicationContext for namespace 'simple-servlet': startup date [Wed May 27 13:30:27 CST 2015]; root of context hierarchy
+2015-05-27 13:30:27 [ main ] Loading XML bean definitions from ServletContext resource [/WEB-INF/simple-servlet.xml]
+2015-05-27 13:30:27 [ main ] JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2015-05-27 13:30:27 [ main ] Mapped URL path [/themes/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#0'
+2015-05-27 13:30:27 [ main ] Mapped URL path [/scripts/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#1'
+2015-05-27 13:30:27 [ main ] Mapped URL path [/styles/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#2'
+2015-05-27 13:30:27 [ main ] Mapped URL path [/images/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#3'
+2015-05-27 13:30:27 [ main ] Mapped URL path [/**] onto handler 'org.springframework.web.servlet.resource.DefaultServletHttpRequestHandler#0'
+2015-05-27 13:30:27 [ main ] FrameworkServlet 'simple': initialization completed in 525 ms
+2015-05-27 13:33:14 [ main ] FrameworkServlet 'simple': initialization started
+2015-05-27 13:33:14 [ main ] Refreshing WebApplicationContext for namespace 'simple-servlet': startup date [Wed May 27 13:33:14 CST 2015]; root of context hierarchy
+2015-05-27 13:33:14 [ main ] Loading XML bean definitions from ServletContext resource [/WEB-INF/simple-servlet.xml]
+2015-05-27 13:33:14 [ main ] JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2015-05-27 13:33:15 [ main ] Mapped URL path [/themes/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#0'
+2015-05-27 13:33:15 [ main ] Mapped URL path [/scripts/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#1'
+2015-05-27 13:33:15 [ main ] Mapped URL path [/styles/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#2'
+2015-05-27 13:33:15 [ main ] Mapped URL path [/images/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#3'
+2015-05-27 13:33:15 [ main ] Mapped URL path [/**] onto handler 'org.springframework.web.servlet.resource.DefaultServletHttpRequestHandler#0'
+2015-05-27 13:33:15 [ main ] FrameworkServlet 'simple': initialization completed in 521 ms
+2015-05-27 13:34:27 [ main ] FrameworkServlet 'simple': initialization started
+2015-05-27 13:34:27 [ main ] Refreshing WebApplicationContext for namespace 'simple-servlet': startup date [Wed May 27 13:34:27 CST 2015]; root of context hierarchy
+2015-05-27 13:34:27 [ main ] Loading XML bean definitions from ServletContext resource [/WEB-INF/simple-servlet.xml]
+2015-05-27 13:34:27 [ main ] JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2015-05-27 13:34:27 [ main ] Mapped URL path [/themes/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#0'
+2015-05-27 13:34:27 [ main ] Mapped URL path [/scripts/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#1'
+2015-05-27 13:34:27 [ main ] Mapped URL path [/styles/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#2'
+2015-05-27 13:34:27 [ main ] Mapped URL path [/images/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#3'
+2015-05-27 13:34:27 [ main ] Mapped URL path [/**] onto handler 'org.springframework.web.servlet.resource.DefaultServletHttpRequestHandler#0'
+2015-05-27 13:34:28 [ main ] FrameworkServlet 'simple': initialization completed in 558 ms
+2015-05-27 13:35:17 [ main ] FrameworkServlet 'simple': initialization started
+2015-05-27 13:35:17 [ main ] Refreshing WebApplicationContext for namespace 'simple-servlet': startup date [Wed May 27 13:35:17 CST 2015]; root of context hierarchy
+2015-05-27 13:35:17 [ main ] Loading XML bean definitions from ServletContext resource [/WEB-INF/simple-servlet.xml]
+2015-05-27 13:35:17 [ main ] JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2015-05-27 13:35:17 [ main ] Mapped URL path [/themes/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#0'
+2015-05-27 13:35:17 [ main ] Mapped URL path [/scripts/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#1'
+2015-05-27 13:35:17 [ main ] Mapped URL path [/styles/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#2'
+2015-05-27 13:35:17 [ main ] Mapped URL path [/images/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#3'
+2015-05-27 13:35:17 [ main ] Mapped URL path [/**] onto handler 'org.springframework.web.servlet.resource.DefaultServletHttpRequestHandler#0'
+2015-05-27 13:35:17 [ main ] FrameworkServlet 'simple': initialization completed in 520 ms
+2015-05-27 13:36:58 [ Timer-1 ] Closing WebApplicationContext for namespace 'simple-servlet': startup date [Wed May 27 13:34:27 CST 2015]; root of context hierarchy
+2015-05-27 13:36:58 [ Timer-1 ] FrameworkServlet 'simple': initialization started
+2015-05-27 13:36:58 [ Timer-1 ] Refreshing WebApplicationContext for namespace 'simple-servlet': startup date [Wed May 27 13:36:58 CST 2015]; root of context hierarchy
+2015-05-27 13:36:59 [ Timer-1 ] Loading XML bean definitions from ServletContext resource [/WEB-INF/simple-servlet.xml]
+2015-05-27 13:36:59 [ Timer-1 ] JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2015-05-27 13:36:59 [ Timer-1 ] Mapped URL path [/themes/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#0'
+2015-05-27 13:36:59 [ Timer-1 ] Mapped URL path [/scripts/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#1'
+2015-05-27 13:36:59 [ Timer-1 ] Mapped URL path [/styles/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#2'
+2015-05-27 13:36:59 [ Timer-1 ] Mapped URL path [/images/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#3'
+2015-05-27 13:36:59 [ Timer-1 ] Mapped URL path [/**] onto handler 'org.springframework.web.servlet.resource.DefaultServletHttpRequestHandler#0'
+2015-05-27 13:36:59 [ Timer-1 ] FrameworkServlet 'simple': initialization completed in 452 ms
+2015-05-27 13:37:00 [ Timer-1 ] Closing WebApplicationContext for namespace 'simple-servlet': startup date [Wed May 27 13:35:17 CST 2015]; root of context hierarchy
+2015-05-27 13:37:00 [ Timer-1 ] FrameworkServlet 'simple': initialization started
+2015-05-27 13:37:00 [ Timer-1 ] Refreshing WebApplicationContext for namespace 'simple-servlet': startup date [Wed May 27 13:37:00 CST 2015]; root of context hierarchy
+2015-05-27 13:37:00 [ Timer-1 ] Loading XML bean definitions from ServletContext resource [/WEB-INF/simple-servlet.xml]
+2015-05-27 13:37:00 [ Timer-1 ] JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2015-05-27 13:37:00 [ Timer-1 ] Mapped URL path [/themes/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#0'
+2015-05-27 13:37:00 [ Timer-1 ] Mapped URL path [/scripts/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#1'
+2015-05-27 13:37:00 [ Timer-1 ] Mapped URL path [/styles/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#2'
+2015-05-27 13:37:00 [ Timer-1 ] Mapped URL path [/images/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#3'
+2015-05-27 13:37:00 [ Timer-1 ] Mapped URL path [/**] onto handler 'org.springframework.web.servlet.resource.DefaultServletHttpRequestHandler#0'
+2015-05-27 13:37:00 [ Timer-1 ] FrameworkServlet 'simple': initialization completed in 335 ms
+2015-05-27 13:37:12 [ Timer-1 ] Closing WebApplicationContext for namespace 'simple-servlet': startup date [Wed May 27 13:37:00 CST 2015]; root of context hierarchy
+2015-05-27 13:37:12 [ Timer-1 ] FrameworkServlet 'simple': initialization started
+2015-05-27 13:37:12 [ Timer-1 ] Refreshing WebApplicationContext for namespace 'simple-servlet': startup date [Wed May 27 13:37:12 CST 2015]; root of context hierarchy
+2015-05-27 13:37:12 [ Timer-1 ] Loading XML bean definitions from ServletContext resource [/WEB-INF/simple-servlet.xml]
+2015-05-27 13:37:12 [ Timer-1 ] JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2015-05-27 13:37:12 [ Timer-1 ] Mapped URL path [/themes/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#0'
+2015-05-27 13:37:12 [ Timer-1 ] Mapped URL path [/scripts/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#1'
+2015-05-27 13:37:12 [ Timer-1 ] Mapped URL path [/styles/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#2'
+2015-05-27 13:37:12 [ Timer-1 ] Mapped URL path [/images/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#3'
+2015-05-27 13:37:12 [ Timer-1 ] Mapped URL path [/**] onto handler 'org.springframework.web.servlet.resource.DefaultServletHttpRequestHandler#0'
+2015-05-27 13:37:12 [ Timer-1 ] FrameworkServlet 'simple': initialization completed in 331 ms
+2015-05-27 13:37:13 [ Timer-1 ] Closing WebApplicationContext for namespace 'simple-servlet': startup date [Wed May 27 13:36:58 CST 2015]; root of context hierarchy
+2015-05-27 13:37:13 [ Timer-1 ] FrameworkServlet 'simple': initialization started
+2015-05-27 13:37:13 [ Timer-1 ] Refreshing WebApplicationContext for namespace 'simple-servlet': startup date [Wed May 27 13:37:13 CST 2015]; root of context hierarchy
+2015-05-27 13:37:13 [ Timer-1 ] Loading XML bean definitions from ServletContext resource [/WEB-INF/simple-servlet.xml]
+2015-05-27 13:37:14 [ Timer-1 ] JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2015-05-27 13:37:14 [ Timer-1 ] Mapped URL path [/themes/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#0'
+2015-05-27 13:37:14 [ Timer-1 ] Mapped URL path [/scripts/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#1'
+2015-05-27 13:37:14 [ Timer-1 ] Mapped URL path [/styles/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#2'
+2015-05-27 13:37:14 [ Timer-1 ] Mapped URL path [/images/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#3'
+2015-05-27 13:37:14 [ Timer-1 ] Mapped URL path [/**] onto handler 'org.springframework.web.servlet.resource.DefaultServletHttpRequestHandler#0'
+2015-05-27 13:37:14 [ Timer-1 ] FrameworkServlet 'simple': initialization completed in 348 ms
+2015-05-27 13:37:19 [ Timer-1 ] Closing WebApplicationContext for namespace 'simple-servlet': startup date [Wed May 27 13:37:13 CST 2015]; root of context hierarchy
+2015-05-27 13:37:19 [ Timer-1 ] FrameworkServlet 'simple': initialization started
+2015-05-27 13:37:19 [ Timer-1 ] Refreshing WebApplicationContext for namespace 'simple-servlet': startup date [Wed May 27 13:37:19 CST 2015]; root of context hierarchy
+2015-05-27 13:37:20 [ Timer-1 ] Loading XML bean definitions from ServletContext resource [/WEB-INF/simple-servlet.xml]
+2015-05-27 13:37:20 [ Timer-1 ] JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2015-05-27 13:37:20 [ Timer-1 ] Mapped URL path [/themes/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#0'
+2015-05-27 13:37:20 [ Timer-1 ] Mapped URL path [/scripts/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#1'
+2015-05-27 13:37:20 [ Timer-1 ] Mapped URL path [/styles/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#2'
+2015-05-27 13:37:20 [ Timer-1 ] Mapped URL path [/images/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#3'
+2015-05-27 13:37:20 [ Timer-1 ] Mapped URL path [/**] onto handler 'org.springframework.web.servlet.resource.DefaultServletHttpRequestHandler#0'
+2015-05-27 13:37:20 [ Timer-1 ] FrameworkServlet 'simple': initialization completed in 463 ms
+2015-05-27 13:37:21 [ Timer-1 ] Closing WebApplicationContext for namespace 'simple-servlet': startup date [Wed May 27 13:37:12 CST 2015]; root of context hierarchy
+2015-05-27 13:37:21 [ Timer-1 ] FrameworkServlet 'simple': initialization started
+2015-05-27 13:37:21 [ Timer-1 ] Refreshing WebApplicationContext for namespace 'simple-servlet': startup date [Wed May 27 13:37:21 CST 2015]; root of context hierarchy
+2015-05-27 13:37:21 [ Timer-1 ] Loading XML bean definitions from ServletContext resource [/WEB-INF/simple-servlet.xml]
+2015-05-27 13:37:21 [ Timer-1 ] JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2015-05-27 13:37:21 [ Timer-1 ] Mapped URL path [/themes/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#0'
+2015-05-27 13:37:21 [ Timer-1 ] Mapped URL path [/scripts/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#1'
+2015-05-27 13:37:21 [ Timer-1 ] Mapped URL path [/styles/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#2'
+2015-05-27 13:37:21 [ Timer-1 ] Mapped URL path [/images/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#3'
+2015-05-27 13:37:21 [ Timer-1 ] Mapped URL path [/**] onto handler 'org.springframework.web.servlet.resource.DefaultServletHttpRequestHandler#0'
+2015-05-27 13:37:22 [ Timer-1 ] FrameworkServlet 'simple': initialization completed in 475 ms
+2015-05-27 13:37:36 [ Timer-1 ] Closing WebApplicationContext for namespace 'simple-servlet': startup date [Wed May 27 13:37:21 CST 2015]; root of context hierarchy
+2015-05-27 13:37:36 [ Timer-1 ] FrameworkServlet 'simple': initialization started
+2015-05-27 13:37:36 [ Timer-1 ] Refreshing WebApplicationContext for namespace 'simple-servlet': startup date [Wed May 27 13:37:36 CST 2015]; root of context hierarchy
+2015-05-27 13:37:36 [ Timer-1 ] Loading XML bean definitions from ServletContext resource [/WEB-INF/simple-servlet.xml]
+2015-05-27 13:37:36 [ Timer-1 ] JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2015-05-27 13:37:36 [ Timer-1 ] Mapped URL path [/themes/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#0'
+2015-05-27 13:37:36 [ Timer-1 ] Mapped URL path [/scripts/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#1'
+2015-05-27 13:37:36 [ Timer-1 ] Mapped URL path [/styles/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#2'
+2015-05-27 13:37:36 [ Timer-1 ] Mapped URL path [/images/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#3'
+2015-05-27 13:37:36 [ Timer-1 ] Mapped URL path [/**] onto handler 'org.springframework.web.servlet.resource.DefaultServletHttpRequestHandler#0'
+2015-05-27 13:37:37 [ Timer-1 ] FrameworkServlet 'simple': initialization completed in 476 ms
+2015-05-27 13:37:37 [ Timer-1 ] Closing WebApplicationContext for namespace 'simple-servlet': startup date [Wed May 27 13:37:19 CST 2015]; root of context hierarchy
+2015-05-27 13:37:37 [ Timer-1 ] FrameworkServlet 'simple': initialization started
+2015-05-27 13:37:37 [ Timer-1 ] Refreshing WebApplicationContext for namespace 'simple-servlet': startup date [Wed May 27 13:37:37 CST 2015]; root of context hierarchy
+2015-05-27 13:37:37 [ Timer-1 ] Loading XML bean definitions from ServletContext resource [/WEB-INF/simple-servlet.xml]
+2015-05-27 13:37:38 [ Timer-1 ] JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2015-05-27 13:37:38 [ Timer-1 ] Mapped URL path [/themes/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#0'
+2015-05-27 13:37:38 [ Timer-1 ] Mapped URL path [/scripts/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#1'
+2015-05-27 13:37:38 [ Timer-1 ] Mapped URL path [/styles/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#2'
+2015-05-27 13:37:38 [ Timer-1 ] Mapped URL path [/images/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#3'
+2015-05-27 13:37:38 [ Timer-1 ] Mapped URL path [/**] onto handler 'org.springframework.web.servlet.resource.DefaultServletHttpRequestHandler#0'
+2015-05-27 13:37:38 [ Timer-1 ] FrameworkServlet 'simple': initialization completed in 466 ms
+2015-05-27 13:37:43 [ Timer-1 ] Closing WebApplicationContext for namespace 'simple-servlet': startup date [Wed May 27 13:37:37 CST 2015]; root of context hierarchy
+2015-05-27 13:37:43 [ Timer-1 ] FrameworkServlet 'simple': initialization started
+2015-05-27 13:37:43 [ Timer-1 ] Refreshing WebApplicationContext for namespace 'simple-servlet': startup date [Wed May 27 13:37:43 CST 2015]; root of context hierarchy
+2015-05-27 13:37:43 [ Timer-1 ] Loading XML bean definitions from ServletContext resource [/WEB-INF/simple-servlet.xml]
+2015-05-27 13:37:44 [ Timer-1 ] JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2015-05-27 13:37:44 [ Timer-1 ] Mapped URL path [/themes/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#0'
+2015-05-27 13:37:44 [ Timer-1 ] Mapped URL path [/scripts/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#1'
+2015-05-27 13:37:44 [ Timer-1 ] Mapped URL path [/styles/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#2'
+2015-05-27 13:37:44 [ Timer-1 ] Mapped URL path [/images/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#3'
+2015-05-27 13:37:44 [ Timer-1 ] Mapped URL path [/**] onto handler 'org.springframework.web.servlet.resource.DefaultServletHttpRequestHandler#0'
+2015-05-27 13:37:44 [ Timer-1 ] FrameworkServlet 'simple': initialization completed in 364 ms
+2015-05-27 13:37:45 [ Timer-1 ] Closing WebApplicationContext for namespace 'simple-servlet': startup date [Wed May 27 13:37:36 CST 2015]; root of context hierarchy
+2015-05-27 13:37:45 [ Timer-1 ] FrameworkServlet 'simple': initialization started
+2015-05-27 13:37:45 [ Timer-1 ] Refreshing WebApplicationContext for namespace 'simple-servlet': startup date [Wed May 27 13:37:45 CST 2015]; root of context hierarchy
+2015-05-27 13:37:45 [ Timer-1 ] Loading XML bean definitions from ServletContext resource [/WEB-INF/simple-servlet.xml]
+2015-05-27 13:37:45 [ Timer-1 ] JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2015-05-27 13:37:45 [ Timer-1 ] Mapped URL path [/themes/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#0'
+2015-05-27 13:37:45 [ Timer-1 ] Mapped URL path [/scripts/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#1'
+2015-05-27 13:37:45 [ Timer-1 ] Mapped URL path [/styles/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#2'
+2015-05-27 13:37:45 [ Timer-1 ] Mapped URL path [/images/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#3'
+2015-05-27 13:37:45 [ Timer-1 ] Mapped URL path [/**] onto handler 'org.springframework.web.servlet.resource.DefaultServletHttpRequestHandler#0'
+2015-05-27 13:37:45 [ Timer-1 ] FrameworkServlet 'simple': initialization completed in 393 ms
+2015-05-27 13:38:01 [ main ] FrameworkServlet 'simple': initialization started
+2015-05-27 13:38:01 [ main ] Refreshing WebApplicationContext for namespace 'simple-servlet': startup date [Wed May 27 13:38:01 CST 2015]; root of context hierarchy
+2015-05-27 13:38:01 [ main ] Loading XML bean definitions from ServletContext resource [/WEB-INF/simple-servlet.xml]
+2015-05-27 13:38:01 [ main ] JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2015-05-27 13:38:01 [ main ] Mapped URL path [/themes/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#0'
+2015-05-27 13:38:01 [ main ] Mapped URL path [/scripts/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#1'
+2015-05-27 13:38:01 [ main ] Mapped URL path [/styles/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#2'
+2015-05-27 13:38:01 [ main ] Mapped URL path [/images/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#3'
+2015-05-27 13:38:01 [ main ] Mapped URL path [/**] onto handler 'org.springframework.web.servlet.resource.DefaultServletHttpRequestHandler#0'
+2015-05-27 13:38:01 [ main ] FrameworkServlet 'simple': initialization completed in 526 ms
+2015-05-27 13:40:30 [ main ] FrameworkServlet 'simple': initialization started
+2015-05-27 13:40:30 [ main ] Refreshing WebApplicationContext for namespace 'simple-servlet': startup date [Wed May 27 13:40:30 CST 2015]; root of context hierarchy
+2015-05-27 13:40:30 [ main ] Loading XML bean definitions from ServletContext resource [/WEB-INF/simple-servlet.xml]
+2015-05-27 13:40:30 [ main ] JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2015-05-27 13:40:31 [ main ] Mapped URL path [/themes/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#0'
+2015-05-27 13:40:31 [ main ] Mapped URL path [/scripts/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#1'
+2015-05-27 13:40:31 [ main ] Mapped URL path [/styles/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#2'
+2015-05-27 13:40:31 [ main ] Mapped URL path [/images/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#3'
+2015-05-27 13:40:31 [ main ] Mapped URL path [/**] onto handler 'org.springframework.web.servlet.resource.DefaultServletHttpRequestHandler#0'
+2015-05-27 13:40:31 [ main ] FrameworkServlet 'simple': initialization completed in 521 ms
+2015-05-27 13:41:00 [ main ] FrameworkServlet 'simple': initialization started
+2015-05-27 13:41:00 [ main ] Refreshing WebApplicationContext for namespace 'simple-servlet': startup date [Wed May 27 13:41:00 CST 2015]; root of context hierarchy
+2015-05-27 13:41:00 [ main ] Loading XML bean definitions from ServletContext resource [/WEB-INF/simple-servlet.xml]
+2015-05-27 13:41:01 [ main ] JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2015-05-27 13:41:01 [ main ] Mapped URL path [/themes/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#0'
+2015-05-27 13:41:01 [ main ] Mapped URL path [/scripts/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#1'
+2015-05-27 13:41:01 [ main ] Mapped URL path [/styles/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#2'
+2015-05-27 13:41:01 [ main ] Mapped URL path [/images/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#3'
+2015-05-27 13:41:01 [ main ] Mapped URL path [/**] onto handler 'org.springframework.web.servlet.resource.DefaultServletHttpRequestHandler#0'
+2015-05-27 13:41:01 [ main ] FrameworkServlet 'simple': initialization completed in 566 ms
+2015-05-27 13:45:07 [ Timer-1 ] Closing WebApplicationContext for namespace 'simple-servlet': startup date [Wed May 27 13:41:00 CST 2015]; root of context hierarchy
+2015-05-27 13:45:08 [ Timer-1 ] FrameworkServlet 'simple': initialization started
+2015-05-27 13:45:08 [ Timer-1 ] Refreshing WebApplicationContext for namespace 'simple-servlet': startup date [Wed May 27 13:45:08 CST 2015]; root of context hierarchy
+2015-05-27 13:45:08 [ Timer-1 ] Loading XML bean definitions from ServletContext resource [/WEB-INF/simple-servlet.xml]
+2015-05-27 13:45:08 [ Timer-1 ] JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2015-05-27 13:45:08 [ Timer-1 ] Mapped URL path [/themes/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#0'
+2015-05-27 13:45:08 [ Timer-1 ] Mapped URL path [/scripts/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#1'
+2015-05-27 13:45:08 [ Timer-1 ] Mapped URL path [/styles/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#2'
+2015-05-27 13:45:08 [ Timer-1 ] Mapped URL path [/images/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#3'
+2015-05-27 13:45:08 [ Timer-1 ] Mapped URL path [/**] onto handler 'org.springframework.web.servlet.resource.DefaultServletHttpRequestHandler#0'
+2015-05-27 13:45:08 [ Timer-1 ] FrameworkServlet 'simple': initialization completed in 342 ms
+2015-05-27 13:47:52 [ Timer-1 ] Closing WebApplicationContext for namespace 'simple-servlet': startup date [Wed May 27 13:45:08 CST 2015]; root of context hierarchy
+2015-05-27 13:47:53 [ Timer-1 ] FrameworkServlet 'simple': initialization started
+2015-05-27 13:47:53 [ Timer-1 ] Refreshing WebApplicationContext for namespace 'simple-servlet': startup date [Wed May 27 13:47:53 CST 2015]; root of context hierarchy
+2015-05-27 13:47:53 [ Timer-1 ] Loading XML bean definitions from ServletContext resource [/WEB-INF/simple-servlet.xml]
+2015-05-27 13:47:53 [ Timer-1 ] JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2015-05-27 13:47:53 [ Timer-1 ] Mapped URL path [/themes/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#0'
+2015-05-27 13:47:53 [ Timer-1 ] Mapped URL path [/scripts/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#1'
+2015-05-27 13:47:53 [ Timer-1 ] Mapped URL path [/styles/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#2'
+2015-05-27 13:47:53 [ Timer-1 ] Mapped URL path [/images/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#3'
+2015-05-27 13:47:53 [ Timer-1 ] Mapped URL path [/**] onto handler 'org.springframework.web.servlet.resource.DefaultServletHttpRequestHandler#0'
+2015-05-27 13:47:53 [ Timer-1 ] FrameworkServlet 'simple': initialization completed in 348 ms
+2015-05-27 13:48:16 [ Timer-1 ] Closing WebApplicationContext for namespace 'simple-servlet': startup date [Wed May 27 13:47:53 CST 2015]; root of context hierarchy
+2015-05-27 13:48:17 [ Timer-1 ] FrameworkServlet 'simple': initialization started
+2015-05-27 13:48:17 [ Timer-1 ] Refreshing WebApplicationContext for namespace 'simple-servlet': startup date [Wed May 27 13:48:17 CST 2015]; root of context hierarchy
+2015-05-27 13:48:17 [ Timer-1 ] Loading XML bean definitions from ServletContext resource [/WEB-INF/simple-servlet.xml]
+2015-05-27 13:48:17 [ Timer-1 ] JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2015-05-27 13:48:17 [ Timer-1 ] Mapped URL path [/themes/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#0'
+2015-05-27 13:48:17 [ Timer-1 ] Mapped URL path [/scripts/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#1'
+2015-05-27 13:48:17 [ Timer-1 ] Mapped URL path [/styles/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#2'
+2015-05-27 13:48:17 [ Timer-1 ] Mapped URL path [/images/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#3'
+2015-05-27 13:48:17 [ Timer-1 ] Mapped URL path [/**] onto handler 'org.springframework.web.servlet.resource.DefaultServletHttpRequestHandler#0'
+2015-05-27 13:48:17 [ Timer-1 ] FrameworkServlet 'simple': initialization completed in 467 ms
+2015-05-27 13:51:43 [ Timer-1 ] Closing WebApplicationContext for namespace 'simple-servlet': startup date [Wed May 27 13:48:17 CST 2015]; root of context hierarchy
+2015-05-27 13:51:44 [ Timer-1 ] FrameworkServlet 'simple': initialization started
+2015-05-27 13:51:44 [ Timer-1 ] Refreshing WebApplicationContext for namespace 'simple-servlet': startup date [Wed May 27 13:51:44 CST 2015]; root of context hierarchy
+2015-05-27 13:51:44 [ Timer-1 ] Loading XML bean definitions from ServletContext resource [/WEB-INF/simple-servlet.xml]
+2015-05-27 13:51:44 [ Timer-1 ] JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2015-05-27 13:51:44 [ Timer-1 ] Mapped URL path [/themes/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#0'
+2015-05-27 13:51:44 [ Timer-1 ] Mapped URL path [/scripts/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#1'
+2015-05-27 13:51:44 [ Timer-1 ] Mapped URL path [/styles/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#2'
+2015-05-27 13:51:44 [ Timer-1 ] Mapped URL path [/images/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#3'
+2015-05-27 13:51:44 [ Timer-1 ] Mapped URL path [/**] onto handler 'org.springframework.web.servlet.resource.DefaultServletHttpRequestHandler#0'
+2015-05-27 13:51:44 [ Timer-1 ] FrameworkServlet 'simple': initialization completed in 455 ms
+2015-05-27 13:51:58 [ Timer-1 ] Closing WebApplicationContext for namespace 'simple-servlet': startup date [Wed May 27 13:51:44 CST 2015]; root of context hierarchy
+2015-05-27 13:51:59 [ Timer-1 ] FrameworkServlet 'simple': initialization started
+2015-05-27 13:51:59 [ Timer-1 ] Refreshing WebApplicationContext for namespace 'simple-servlet': startup date [Wed May 27 13:51:59 CST 2015]; root of context hierarchy
+2015-05-27 13:51:59 [ Timer-1 ] Loading XML bean definitions from ServletContext resource [/WEB-INF/simple-servlet.xml]
+2015-05-27 13:51:59 [ Timer-1 ] JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2015-05-27 13:51:59 [ Timer-1 ] Mapped URL path [/themes/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#0'
+2015-05-27 13:51:59 [ Timer-1 ] Mapped URL path [/scripts/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#1'
+2015-05-27 13:51:59 [ Timer-1 ] Mapped URL path [/styles/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#2'
+2015-05-27 13:51:59 [ Timer-1 ] Mapped URL path [/images/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#3'
+2015-05-27 13:51:59 [ Timer-1 ] Mapped URL path [/**] onto handler 'org.springframework.web.servlet.resource.DefaultServletHttpRequestHandler#0'
+2015-05-27 13:51:59 [ Timer-1 ] FrameworkServlet 'simple': initialization completed in 321 ms
+2015-05-27 15:00:38 [ main ] FrameworkServlet 'simple': initialization started
+2015-05-27 15:00:38 [ main ] Refreshing WebApplicationContext for namespace 'simple-servlet': startup date [Wed May 27 15:00:38 CST 2015]; root of context hierarchy
+2015-05-27 15:00:38 [ main ] Loading XML bean definitions from ServletContext resource [/WEB-INF/simple-servlet.xml]
+2015-05-27 15:00:39 [ main ] JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2015-05-27 15:00:39 [ main ] Mapped URL path [/themes/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#0'
+2015-05-27 15:00:39 [ main ] Mapped URL path [/scripts/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#1'
+2015-05-27 15:00:39 [ main ] Mapped URL path [/styles/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#2'
+2015-05-27 15:00:39 [ main ] Mapped URL path [/images/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#3'
+2015-05-27 15:00:39 [ main ] Mapped URL path [/**] onto handler 'org.springframework.web.servlet.resource.DefaultServletHttpRequestHandler#0'
+2015-05-27 15:00:39 [ main ] FrameworkServlet 'simple': initialization completed in 583 ms
+2015-05-27 15:16:01 [ main ] FrameworkServlet 'simple': initialization started
+2015-05-27 15:16:01 [ main ] Refreshing WebApplicationContext for namespace 'simple-servlet': startup date [Wed May 27 15:16:01 CST 2015]; root of context hierarchy
+2015-05-27 15:16:01 [ main ] Loading XML bean definitions from ServletContext resource [/WEB-INF/simple-servlet.xml]
+2015-05-27 15:16:01 [ main ] JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2015-05-27 15:16:01 [ main ] Mapped URL path [/themes/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#0'
+2015-05-27 15:16:01 [ main ] Mapped URL path [/scripts/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#1'
+2015-05-27 15:16:01 [ main ] Mapped URL path [/styles/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#2'
+2015-05-27 15:16:01 [ main ] Mapped URL path [/images/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#3'
+2015-05-27 15:16:01 [ main ] Mapped URL path [/**] onto handler 'org.springframework.web.servlet.resource.DefaultServletHttpRequestHandler#0'
+2015-05-27 15:16:01 [ main ] FrameworkServlet 'simple': initialization completed in 551 ms
+2015-05-27 15:16:27 [ main ] FrameworkServlet 'simple': initialization started
+2015-05-27 15:16:27 [ main ] Refreshing WebApplicationContext for namespace 'simple-servlet': startup date [Wed May 27 15:16:27 CST 2015]; root of context hierarchy
+2015-05-27 15:16:27 [ main ] Loading XML bean definitions from ServletContext resource [/WEB-INF/simple-servlet.xml]
+2015-05-27 15:16:27 [ main ] JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2015-05-27 15:16:27 [ main ] Mapped URL path [/themes/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#0'
+2015-05-27 15:16:27 [ main ] Mapped URL path [/scripts/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#1'
+2015-05-27 15:16:27 [ main ] Mapped URL path [/styles/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#2'
+2015-05-27 15:16:27 [ main ] Mapped URL path [/images/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#3'
+2015-05-27 15:16:27 [ main ] Mapped URL path [/**] onto handler 'org.springframework.web.servlet.resource.DefaultServletHttpRequestHandler#0'
+2015-05-27 15:16:27 [ main ] FrameworkServlet 'simple': initialization completed in 533 ms
+2015-05-27 16:25:18 [ main ] FrameworkServlet 'simple': initialization started
+2015-05-27 16:25:18 [ main ] FrameworkServlet 'simple': initialization started
+2015-05-27 16:25:18 [ main ] Refreshing WebApplicationContext for namespace 'simple-servlet': startup date [Wed May 27 16:25:18 CST 2015]; root of context hierarchy
+2015-05-27 16:25:18 [ main ] Refreshing WebApplicationContext for namespace 'simple-servlet': startup date [Wed May 27 16:25:18 CST 2015]; root of context hierarchy
+2015-05-27 16:25:18 [ main ] Loading XML bean definitions from ServletContext resource [/WEB-INF/simple-servlet.xml]
+2015-05-27 16:25:18 [ main ] Loading XML bean definitions from ServletContext resource [/WEB-INF/simple-servlet.xml]
+2015-05-27 16:25:19 [ main ] JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2015-05-27 16:25:19 [ main ] JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2015-05-27 16:25:20 [ main ] Mapped URL path [/themes/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#0'
+2015-05-27 16:25:20 [ main ] Mapped URL path [/themes/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#0'
+2015-05-27 16:25:21 [ main ] Mapped URL path [/scripts/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#1'
+2015-05-27 16:25:21 [ main ] Mapped URL path [/scripts/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#1'
+2015-05-27 16:25:21 [ main ] Mapped URL path [/styles/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#2'
+2015-05-27 16:25:21 [ main ] Mapped URL path [/images/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#3'
+2015-05-27 16:25:21 [ main ] Mapped URL path [/styles/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#2'
+2015-05-27 16:25:21 [ main ] Mapped URL path [/images/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#3'
+2015-05-27 16:25:21 [ main ] Mapped URL path [/**] onto handler 'org.springframework.web.servlet.resource.DefaultServletHttpRequestHandler#0'
+2015-05-27 16:25:21 [ main ] Mapped URL path [/**] onto handler 'org.springframework.web.servlet.resource.DefaultServletHttpRequestHandler#0'
+2015-05-27 16:25:21 [ main ] FrameworkServlet 'simple': initialization completed in 2840 ms
+2015-05-27 16:25:21 [ main ] FrameworkServlet 'simple': initialization completed in 2839 ms
+2015-05-27 16:26:04 [ main ] FrameworkServlet 'simple': initialization started
+2015-05-27 16:26:04 [ main ] Refreshing WebApplicationContext for namespace 'simple-servlet': startup date [Wed May 27 16:26:04 CST 2015]; root of context hierarchy
+2015-05-27 16:26:04 [ main ] Loading XML bean definitions from ServletContext resource [/WEB-INF/simple-servlet.xml]
+2015-05-27 16:26:04 [ main ] JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2015-05-27 16:26:04 [ main ] Mapped URL path [/themes/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#0'
+2015-05-27 16:26:04 [ main ] Mapped URL path [/scripts/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#1'
+2015-05-27 16:26:04 [ main ] Mapped URL path [/styles/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#2'
+2015-05-27 16:26:04 [ main ] Mapped URL path [/images/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#3'
+2015-05-27 16:26:04 [ main ] Mapped URL path [/**] onto handler 'org.springframework.web.servlet.resource.DefaultServletHttpRequestHandler#0'
+2015-05-27 16:26:04 [ main ] FrameworkServlet 'simple': initialization completed in 549 ms
+2015-05-27 16:26:45 [ Timer-1 ] Closing WebApplicationContext for namespace 'simple-servlet': startup date [Wed May 27 16:25:18 CST 2015]; root of context hierarchy
+2015-05-27 16:26:46 [ Timer-1 ] FrameworkServlet 'simple': initialization started
+2015-05-27 16:26:46 [ Timer-1 ] Refreshing WebApplicationContext for namespace 'simple-servlet': startup date [Wed May 27 16:26:46 CST 2015]; root of context hierarchy
+2015-05-27 16:26:46 [ Timer-1 ] Loading XML bean definitions from ServletContext resource [/WEB-INF/simple-servlet.xml]
+2015-05-27 16:26:46 [ Timer-1 ] JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2015-05-27 16:26:46 [ Timer-1 ] Mapped URL path [/themes/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#0'
+2015-05-27 16:26:46 [ Timer-1 ] Mapped URL path [/scripts/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#1'
+2015-05-27 16:26:46 [ Timer-1 ] Mapped URL path [/styles/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#2'
+2015-05-27 16:26:46 [ Timer-1 ] Mapped URL path [/images/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#3'
+2015-05-27 16:26:46 [ Timer-1 ] Mapped URL path [/**] onto handler 'org.springframework.web.servlet.resource.DefaultServletHttpRequestHandler#0'
+2015-05-27 16:26:46 [ Timer-1 ] FrameworkServlet 'simple': initialization completed in 475 ms
+2015-05-27 16:26:47 [ Timer-1 ] Closing WebApplicationContext for namespace 'simple-servlet': startup date [Wed May 27 16:26:04 CST 2015]; root of context hierarchy
+2015-05-27 16:26:47 [ Timer-1 ] FrameworkServlet 'simple': initialization started
+2015-05-27 16:26:47 [ Timer-1 ] Refreshing WebApplicationContext for namespace 'simple-servlet': startup date [Wed May 27 16:26:47 CST 2015]; root of context hierarchy
+2015-05-27 16:26:47 [ Timer-1 ] Loading XML bean definitions from ServletContext resource [/WEB-INF/simple-servlet.xml]
+2015-05-27 16:26:47 [ Timer-1 ] JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2015-05-27 16:26:48 [ Timer-1 ] Mapped URL path [/themes/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#0'
+2015-05-27 16:26:48 [ Timer-1 ] Mapped URL path [/scripts/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#1'
+2015-05-27 16:26:48 [ Timer-1 ] Mapped URL path [/styles/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#2'
+2015-05-27 16:26:48 [ Timer-1 ] Mapped URL path [/images/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#3'
+2015-05-27 16:26:48 [ Timer-1 ] Mapped URL path [/**] onto handler 'org.springframework.web.servlet.resource.DefaultServletHttpRequestHandler#0'
+2015-05-27 16:26:48 [ Timer-1 ] FrameworkServlet 'simple': initialization completed in 360 ms
+2015-05-27 16:26:49 [ Timer-1 ] Closing WebApplicationContext for namespace 'simple-servlet': startup date [Wed May 27 16:26:46 CST 2015]; root of context hierarchy
+2015-05-27 16:26:49 [ Timer-1 ] FrameworkServlet 'simple': initialization started
+2015-05-27 16:26:49 [ Timer-1 ] Refreshing WebApplicationContext for namespace 'simple-servlet': startup date [Wed May 27 16:26:49 CST 2015]; root of context hierarchy
+2015-05-27 16:26:49 [ Timer-1 ] Loading XML bean definitions from ServletContext resource [/WEB-INF/simple-servlet.xml]
+2015-05-27 16:26:49 [ Timer-1 ] JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2015-05-27 16:26:49 [ Timer-1 ] Mapped URL path [/themes/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#0'
+2015-05-27 16:26:49 [ Timer-1 ] Mapped URL path [/scripts/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#1'
+2015-05-27 16:26:49 [ Timer-1 ] Mapped URL path [/styles/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#2'
+2015-05-27 16:26:49 [ Timer-1 ] Mapped URL path [/images/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#3'
+2015-05-27 16:26:49 [ Timer-1 ] Mapped URL path [/**] onto handler 'org.springframework.web.servlet.resource.DefaultServletHttpRequestHandler#0'
+2015-05-27 16:26:49 [ Timer-1 ] FrameworkServlet 'simple': initialization completed in 364 ms
+2015-05-27 16:26:50 [ Timer-1 ] Closing WebApplicationContext for namespace 'simple-servlet': startup date [Wed May 27 16:26:47 CST 2015]; root of context hierarchy
+2015-05-27 16:26:50 [ Timer-1 ] FrameworkServlet 'simple': initialization started
+2015-05-27 16:26:50 [ Timer-1 ] Refreshing WebApplicationContext for namespace 'simple-servlet': startup date [Wed May 27 16:26:50 CST 2015]; root of context hierarchy
+2015-05-27 16:26:50 [ Timer-1 ] Loading XML bean definitions from ServletContext resource [/WEB-INF/simple-servlet.xml]
+2015-05-27 16:26:50 [ Timer-1 ] JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2015-05-27 16:26:51 [ Timer-1 ] Mapped URL path [/themes/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#0'
+2015-05-27 16:26:51 [ Timer-1 ] Mapped URL path [/scripts/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#1'
+2015-05-27 16:26:51 [ Timer-1 ] Mapped URL path [/styles/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#2'
+2015-05-27 16:26:51 [ Timer-1 ] Mapped URL path [/images/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#3'
+2015-05-27 16:26:51 [ Timer-1 ] Mapped URL path [/**] onto handler 'org.springframework.web.servlet.resource.DefaultServletHttpRequestHandler#0'
+2015-05-27 16:26:51 [ Timer-1 ] FrameworkServlet 'simple': initialization completed in 328 ms
+2015-05-27 16:27:26 [ main ] FrameworkServlet 'simple': initialization started
+2015-05-27 16:27:26 [ main ] Refreshing WebApplicationContext for namespace 'simple-servlet': startup date [Wed May 27 16:27:26 CST 2015]; root of context hierarchy
+2015-05-27 16:27:26 [ main ] Loading XML bean definitions from ServletContext resource [/WEB-INF/simple-servlet.xml]
+2015-05-27 16:27:26 [ main ] JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2015-05-27 16:27:26 [ main ] Mapped URL path [/themes/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#0'
+2015-05-27 16:27:26 [ main ] Mapped URL path [/scripts/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#1'
+2015-05-27 16:27:26 [ main ] Mapped URL path [/styles/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#2'
+2015-05-27 16:27:26 [ main ] Mapped URL path [/images/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#3'
+2015-05-27 16:27:26 [ main ] Mapped URL path [/**] onto handler 'org.springframework.web.servlet.resource.DefaultServletHttpRequestHandler#0'
+2015-05-27 16:27:26 [ main ] FrameworkServlet 'simple': initialization completed in 555 ms
+2015-05-27 16:30:46 [ main ] FrameworkServlet 'simple': initialization started
+2015-05-27 16:30:46 [ main ] Refreshing WebApplicationContext for namespace 'simple-servlet': startup date [Wed May 27 16:30:46 CST 2015]; root of context hierarchy
+2015-05-27 16:30:46 [ main ] Loading XML bean definitions from ServletContext resource [/WEB-INF/simple-servlet.xml]
+2015-05-27 16:30:47 [ main ] JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2015-05-27 16:30:47 [ main ] Mapped URL path [/themes/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#0'
+2015-05-27 16:30:47 [ main ] Mapped URL path [/scripts/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#1'
+2015-05-27 16:30:47 [ main ] Mapped URL path [/styles/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#2'
+2015-05-27 16:30:47 [ main ] Mapped URL path [/images/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#3'
+2015-05-27 16:30:47 [ main ] Mapped URL path [/**] onto handler 'org.springframework.web.servlet.resource.DefaultServletHttpRequestHandler#0'
+2015-05-27 16:30:47 [ main ] FrameworkServlet 'simple': initialization completed in 540 ms
